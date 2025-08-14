@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aprendendo Java/Aprendendo Java.iml" filepath="$PROJECT_DIR$/Aprendendo Java/Aprendendo Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Estudos.iml" filepath="$PROJECT_DIR$/.idea/Estudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos de vareaveis/Tipos de vareaveis.iml" filepath="$PROJECT_DIR$/Tipos de vareaveis/Tipos de vareaveis.iml" />
     </modules>
   </component>
 </project>
