@@ -30,9 +30,21 @@ public class TiposDeVareaveis {
         boolean botaoDesativado = false;
         String nome = "Victor Henrique";
 
+        //Classes Wrappers(contem mais funciões que o primitivo)
+        Byte idade1 = 120;
+        Short estoque1 = 32767;
+        Integer numero1 = 2147483647;
+        Long  valores1 = 9223372036854775807L;
+        Float real1 = 10.50f;
+        Character minhaLetra1 = 'V';
+        Boolean botaAtivado1 = true;
+        Boolean botaoDesativado1 = false;
+
+
         /*Vareavel de um jeito mais facil*/
         var sobrenome = "Victor 55";
 
+        /*Fuynçõas mostrar*/
         System.out.println(idade);
         System.out.println(estoque);
         System.out.println(numero);
