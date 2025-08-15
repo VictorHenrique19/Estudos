@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class TiposDeVareaveis {
     public static void main(String[] args) {
 
         /*
@@ -19,10 +19,28 @@ public class Main {
 
          */
 
+        //Primitivos
         byte idade = 120;
-        
+        short estoque = 32767;
+        int numero = 2147483647;
+        long  valores = 9223372036854775807L;
+        float real = 10.50f;
+        char minhaLetra = 'V';
+        boolean botaAtivado = true;
+        boolean botaoDesativado = false;
+        String nome = "Victor Henrique";
+
+        /*Vareavel de um jeito mais facil*/
+        var sobrenome = "Victor 55";
+
         System.out.println(idade);
+        System.out.println(estoque);
+        System.out.println(numero);
+        System.out.println(valores);
+
+        System.out.println(sobrenome);
 
 
     }
+
 }
